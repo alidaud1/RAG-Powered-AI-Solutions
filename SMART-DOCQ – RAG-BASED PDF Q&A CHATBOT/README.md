@@ -1,8 +1,8 @@
-# MINDCARE AI – RAG-BASED MENTAL HEALTH CHATBOT
+# SMART-DOCQ – RAG-BASED PDF Q&A CHATBOT
 
 ## Project Overview
 
-MINDCARE AI is an intelligent chatbot designed to answer specific queries derived from PDF documents. The project utilizes advanced techniques in Natural Language Processing (NLP) and Generative AI to ensure contextually accurate and relevant responses. This README outlines the key components, processes, and technologies used in the development of the chatbot.
+SMART-DOCQ is an intelligent chatbot designed to answer specific queries derived from PDF documents. The project utilizes advanced techniques in Natural Language Processing (NLP) and Generative AI to ensure contextually accurate and relevant responses. This README outlines the key components, processes, and technologies used in the development of the chatbot.
 
 ## Key Features
 
@@ -61,7 +61,7 @@ MINDCARE AI is an intelligent chatbot designed to answer specific queries derive
 
 ## Conclusion
 
-MINDCARE AI represents a significant step forward in the realm of mental health support through technology. By utilizing sentence embeddings, vector search, and generative AI, the chatbot provides a robust solution for users seeking information from complex documents.
+SMART-DOCQ represents a significant step forward in the realm of mental health support through technology. By utilizing sentence embeddings, vector search, and generative AI, the chatbot provides a robust solution for users seeking information from complex documents.
 
 ## Project Interface
 
