@@ -1,4 +1,4 @@
-# Project: MINDCARE AI - Mental Health Chatbot
+# MINDCARE AI - Mental Health Chatbot
 ## Project Overview:
 MINDCARE AI is a mental health chatbot developed using a Retrieve and Generate (RAG) approach. The chatbot leverages advanced natural language processing (NLP) techniques to provide users with personalized mental health support and guidance. By combining a curated dataset with powerful AI models, MINDCARE AI offers real-time, context-aware responses to user inquiries about mental well-being.
 
