@@ -65,5 +65,5 @@ SMART-DOCQ represents a significant step forward in the realm of mental health s
 
 ## Project Interface
 
-![Project Interface](path/to/your/image.png)
+![Project Interface](https://github.com/alidaud1/RAG-Powered-AI-Solutions/blob/main/SMART-DOCQ%20%E2%80%93%20RAG-BASED%20PDF%20Q&A%20CHATBOT/assets.png?raw=true)
 
