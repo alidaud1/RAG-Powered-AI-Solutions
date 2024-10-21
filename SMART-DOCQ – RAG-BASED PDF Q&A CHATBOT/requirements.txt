@@ -1,0 +1,4 @@
+google-generativeai
+langchain
+pinecone
+sentence-transformers
